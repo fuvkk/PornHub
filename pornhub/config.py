@@ -1,8 +1,8 @@
 from typing import List
 
-API_ID: int = 12345
-API_HASH: str = "abcdefg:12345678"
-TOKEN: str = "abcdefg:12345678"
+API_ID: int = 10098309
+API_HASH: str = "aaacac243dddc9f0433c89cab8efe323"
+TOKEN: str = "5421845078:AAHLCEddkMqR8w0lT_983Ptk9CbW3B18eXE"
 
 log_chat: int = -12345678
 sub_chat: str = "channel_username"
